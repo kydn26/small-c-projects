@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Project-specific
+bin/
+build/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
